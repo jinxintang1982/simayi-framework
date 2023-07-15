@@ -12,6 +12,7 @@
 
     <modules>
         <module>simayi-exception-handle</module>
+        <module>simayi-thread-pool</module>
     </modules>
 
     <properties>
